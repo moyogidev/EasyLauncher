@@ -1,0 +1,29 @@
+# Built files
+*.apk
+*.aar
+*.ap_
+*.aab
+*.dex
+*.class
+bin/
+gen/
+out/
+build/
+.gradle/
+.cxx/
+
+# Kotlin / IDE
+.kotlin/
+.idea/
+*.iml
+.DS_Store
+
+# Local, machine-specific config (SDK path etc.) — never commit
+local.properties
+
+# Logs
+*.log
+
+# Keystores (do not commit signing keys)
+*.jks
+*.keystore

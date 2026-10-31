@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Dark rounded background, like the Wordle board -->
+    <path
+        android:fillColor="#FF121213"
+        android:pathData="M20,8 L76,8 A12,12 0 0,1 88,20 L88,76 A12,12 0 0,1 76,88 L20,88 A12,12 0 0,1 8,76 L8,20 A12,12 0 0,1 20,8 z" />
+    <!-- Row 1 -->
+    <path android:fillColor="#FF6AAA64" android:pathData="M26,34 h13 v13 h-13 z" />
+    <path android:fillColor="#FF787C7E" android:pathData="M42,34 h13 v13 h-13 z" />
+    <path android:fillColor="#FFC9B458" android:pathData="M58,34 h13 v13 h-13 z" />
+    <!-- Row 2 -->
+    <path android:fillColor="#FF787C7E" android:pathData="M26,50 h13 v13 h-13 z" />
+    <path android:fillColor="#FF6AAA64" android:pathData="M42,50 h13 v13 h-13 z" />
+    <path android:fillColor="#FF787C7E" android:pathData="M58,50 h13 v13 h-13 z" />
+</vector>

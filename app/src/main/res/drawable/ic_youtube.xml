@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Rounded red YouTube badge -->
+    <path
+        android:fillColor="#FFFF0000"
+        android:pathData="M22,24 H74 A14,14 0 0 1 88,38 V58 A14,14 0 0 1 74,72 H22 A14,14 0 0 1 8,58 V38 A14,14 0 0 1 22,24 Z" />
+    <!-- White play triangle -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M40,36 L40,60 L64,48 Z" />
+</vector>

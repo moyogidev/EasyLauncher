@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Easy Launcher</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Easy Launcher settings</string>
+    <string name="number_of_buttons">Number of buttons</string>
+    <string name="six_buttons">6 buttons</string>
+    <string name="eight_buttons">8 buttons</string>
+    <string name="set_as_home">Set Easy Launcher as the Home app</string>
+    <string name="notif_service_label">Easy Launcher notification badges</string>
+    <string name="notification_badges">Notification badges (allow access)</string>
+    <string name="change_pin">Change PIN</string>
+    <string name="done">Done</string>
+    <string name="edit">Edit</string>
+    <string name="empty_slot">Empty</string>
+
+    <!-- Slot editor -->
+    <string name="edit_button">Edit button</string>
+    <string name="quick_choices">Quick choices</string>
+    <string name="other_app">Other app</string>
+    <string name="choose_installed_app">Choose an installed app…</string>
+    <string name="web_link">Web page in Chrome…</string>
+    <string name="web_link_title">Web page address</string>
+    <string name="web_link_message">Enter the web address to open in Chrome.</string>
+    <string name="youtube_link">YouTube video…</string>
+    <string name="youtube_link_title">YouTube video link</string>
+    <string name="youtube_link_message">Paste the link to the YouTube video. It opens in the YouTube app and starts playing. You can then set a label such as \"Chair exercises\".</string>
+    <string name="button_label">Button label</string>
+    <string name="icon">Icon</string>
+    <string name="use_app_icon">App\'s own icon</string>
+    <string name="use_game_icon">Game icon</string>
+    <string name="clear_button">Clear this button</string>
+    <string name="save">Save</string>
+    <string name="preview">Preview</string>
+
+    <!-- App picker -->
+    <string name="pick_app_title">Choose an app</string>
+
+    <!-- PIN -->
+    <string name="create_pin">Create a PIN</string>
+    <string name="create_pin_message">This PIN protects the settings so it can\'t be changed by accident. Enter a PIN (4 or more digits).</string>
+    <string name="confirm_pin">Confirm PIN</string>
+    <string name="confirm_pin_message">Enter the same PIN again.</string>
+    <string name="enter_pin">Enter PIN</string>
+    <string name="enter_pin_message">Enter the PIN to open settings.</string>
+    <string name="pin_mismatch">PINs did not match. Try again.</string>
+    <string name="pin_too_short">PIN must be at least 4 digits.</string>
+    <string name="pin_wrong">Wrong PIN.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Misc -->
+    <string name="not_installed">That app is not installed.</string>
+    <string name="cannot_open">Could not open that app.</string>
+    <string name="open_settings_hint">Tap the small gear, or hold your finger on the screen, to open settings.</string>
+</resources>

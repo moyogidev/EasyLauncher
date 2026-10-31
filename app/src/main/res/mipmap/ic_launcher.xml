@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Pre-Android-8 launcher icon (flat version of the adaptive icon). -->
+    <path
+        android:fillColor="@color/launcherIconBg"
+        android:pathData="M0,0 h108 v108 h-108 z" />
+    <path android:fillColor="@color/iconPhone"
+        android:pathData="M34,34 m-12,0 a12,12 0 1,0 24,0 a12,12 0 1,0 -24,0 z" />
+    <path android:fillColor="@color/iconWhatsapp"
+        android:pathData="M74,34 m-12,0 a12,12 0 1,0 24,0 a12,12 0 1,0 -24,0 z" />
+    <path android:fillColor="@color/iconCamera"
+        android:pathData="M34,74 m-12,0 a12,12 0 1,0 24,0 a12,12 0 1,0 -24,0 z" />
+    <path android:fillColor="@color/iconContacts"
+        android:pathData="M74,74 m-12,0 a12,12 0 1,0 24,0 a12,12 0 1,0 -24,0 z" />
+</vector>

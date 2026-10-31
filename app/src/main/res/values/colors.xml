@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Screen background: a calm, low-glare blue-grey -->
+    <color name="screenBg">#FF22344A</color>
+    <color name="screenBgEnd">#FF11202F</color>
+
+    <!-- Buttons -->
+    <color name="buttonBg">#FFFFFFFF</color>
+    <color name="buttonStroke">#FFE0E0E0</color>
+    <color name="buttonText">#FF1A1A1A</color>
+    <color name="emptyButtonBg">#33FFFFFF</color>
+    <color name="emptyButtonText">#88FFFFFF</color>
+    <color name="ripple">#33000000</color>
+
+    <!-- Icon accent colours -->
+    <color name="iconPhone">#FF43A047</color>
+    <color name="iconWhatsapp">#FF25D366</color>
+    <color name="iconCamera">#FFF4511E</color>
+    <color name="iconPhotos">#FF8E24AA</color>
+    <color name="iconContacts">#FF1E88E5</color>
+    <color name="iconGame">#FFE53935</color>
+    <color name="iconGlyph">#FFFFFFFF</color>
+    <color name="iconEmpty">#66FFFFFF</color>
+
+    <!-- App launcher icon background -->
+    <color name="launcherIconBg">#FF22344A</color>
+
+    <!-- Settings screen -->
+    <color name="settingsBg">#FFF5F5F5</color>
+    <color name="settingsCard">#FFFFFFFF</color>
+    <color name="settingsText">#FF1A1A1A</color>
+    <color name="accent">#FF1E88E5</color>
+</resources>
